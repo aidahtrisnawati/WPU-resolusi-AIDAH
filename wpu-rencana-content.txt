@@ -3,9 +3,12 @@
 - Javascript
 * E56
 * Framework Javascript
-^ Angular
+^ Vue
 ^ React
+- Struktur Data Dasar
+main
 - PHP Frameworks
 ^ Laravel
 - Interview
 - Vlogs
+- Python
