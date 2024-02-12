@@ -4,7 +4,9 @@
 * E56
 * Framework Javascript
 ^ Vue
+^ React
 - Struktur Data Dasar
+main
 - PHP Frameworks
 ^ Laravel
 - Interview
