@@ -5,6 +5,7 @@
 * Framework Javascript
 ^ Vue
 ^ React
+^ angular
 - Struktur Data Dasar
 main
 - PHP Frameworks
